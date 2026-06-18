@@ -36,6 +36,7 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [fiorio-minibanca](https://github.com/SyncLab-Stage/fiorio-minibanca)
 ### JavaScript
 * [fiorio-teoria-javascript](https://github.com/SyncLab-Stage/fiorio-teoria-javascript)
+* [fiorio-rubrica](https://github.com/SyncLab-Stage/fiorio-rubrica)
 
 ### Fondamenti Web
 * [cognome-progettoweb](https://github.com/link-al-repo) 
