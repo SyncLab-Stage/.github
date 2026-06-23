@@ -40,7 +40,9 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 ### JavaScript
 * [fiorio-teoria-javascript](https://github.com/SyncLab-Stage/fiorio-teoria-javascript)
 * [fiorio-rubrica](https://github.com/SyncLab-Stage/fiorio-rubrica)
-* [fiorio-todo](https://github.com/SyncLab-Stage/fiorio-todolist)
+* [fiorio-todolist](https://github.com/SyncLab-Stage/fiorio-todolist)
+* [fiorio-catalogo](https://github.com/SyncLab-Stage/fiorio-catalogo)
+* [fiorio-dashboard-utenti](https://github.com/SyncLab-Stage/fiorio-dashboard-utenti)
 
 ### Fondamenti Web
 * [cognome-progettoweb](https://github.com/link-al-repo) 
