@@ -45,7 +45,7 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [fiorio-dashboard-utenti](https://github.com/SyncLab-Stage/fiorio-dashboard-utenti)
 
 ### Fondamenti Web
-* [cognome-progettoweb](https://github.com/link-al-repo) 
+* [fiorio-teoria-fondamenti-web](https://github.com/SyncLab-Stage/fiorio-teoria-fondamenti-web)
 
 ### Spring Boot
 * [cognome-progettospring](https://github.com/link-al-repo) 
