@@ -35,8 +35,11 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [fiorio-studenti](https://github.com/SyncLab-Stage/fiorio-studenti)
 * [fiorio-minibanca](https://github.com/SyncLab-Stage/fiorio-minibanca)
 
+
 * [buzzi-calcolatrice](https://github.com/SyncLab-Stage/buzzi-calcolatrice)
 * [buzzi-biblioteca](https://github.com/SyncLab-Stage/buzzi-biblioteca)
+* [buzzi-studenti](https://github.com/SyncLab-Stage/buzzi-studenti)
+
 
 * [pero-calcolatrice](https://github.com/SyncLab-Stage/pero-calcolatrice)
 
