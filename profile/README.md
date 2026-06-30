@@ -51,7 +51,7 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [fiorio-teoria-fondamenti-web](https://github.com/SyncLab-Stage/fiorio-teoria-fondamenti-web)
 
 ### Spring Boot
-* [fiorio-palestra](https://github.com/SyncLab-Stage/fiorio-palestra) **Extra**
+* [fiorio-palestra](https://github.com/SyncLab-Stage/fiorio-palestra) ***( Extra )***
 
 ### Angular
 * [cognome-progettoangular](https://github.com/link-al-repo) 
