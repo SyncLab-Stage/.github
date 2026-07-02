@@ -37,9 +37,10 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [buzzi-calcolatrice](https://github.com/SyncLab-Stage/buzzi-calcolatrice)
 * [buzzi-biblioteca](https://github.com/SyncLab-Stage/buzzi-biblioteca)
 * [buzzi-studenti](https://github.com/SyncLab-Stage/buzzi-studenti)
+* [buzzi-studenti-db](https://github.com/SyncLab-Stage/buzzi-studenti-db)
 * [pero-calcolatrice](https://github.com/SyncLab-Stage/pero-calcolatrice)
 * [pero-biblioteca](https://github.com/SyncLab-Stage/pero-biblioteca)
-
+ 
 ### JavaScript
 * [fiorio-teoria-javascript](https://github.com/SyncLab-Stage/fiorio-teoria-javascript)
 * [fiorio-rubrica](https://github.com/SyncLab-Stage/fiorio-rubrica)
@@ -52,6 +53,7 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 
 ### Spring Boot
 * [fiorio-palestra](https://github.com/SyncLab-Stage/fiorio-palestra) ***( Extra )***
+* [fiorio-prodotti](https://github.com/SyncLab-Stage/fiorio-prodotti)
 
 ### Angular
 * [cognome-progettoangular](https://github.com/link-al-repo) 
