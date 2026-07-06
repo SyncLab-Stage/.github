@@ -54,6 +54,7 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 ### Spring Boot
 * [fiorio-palestra](https://github.com/SyncLab-Stage/fiorio-palestra) ***( Extra )***
 * [fiorio-prodotti](https://github.com/SyncLab-Stage/fiorio-prodotti)
+* [fiorio-api-studenti](https://github.com/SyncLab-Stage/fiorio-api-studenti)
 
 ### Angular
 * [cognome-progettoangular](https://github.com/link-al-repo) 
