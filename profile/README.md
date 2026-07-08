@@ -41,6 +41,8 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [buzzi-minibanca](https://github.com/SyncLab-Stage/buzzi-minibanca)
 * [pero-calcolatrice](https://github.com/SyncLab-Stage/pero-calcolatrice)
 * [pero-biblioteca](https://github.com/SyncLab-Stage/pero-biblioteca)
+* [pero-studenti](https://github.com/SyncLab-Stage/pero-studenti)
+* [pero-minibanca](https://github.com/SyncLab-Stage/pero-miniBanca)
  
 ### JavaScript
 * [fiorio-teoria-javascript](https://github.com/SyncLab-Stage/fiorio-teoria-javascript)
