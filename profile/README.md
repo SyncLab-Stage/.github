@@ -39,6 +39,7 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [buzzi-studenti](https://github.com/SyncLab-Stage/buzzi-studenti)
 * [buzzi-studenti-db](https://github.com/SyncLab-Stage/buzzi-studenti-db)
 * [buzzi-minibanca](https://github.com/SyncLab-Stage/buzzi-minibanca)
+* [buzzi-minibanca-db](https://github.com/SyncLab-Stage/buzzi-minibanca-db)
 * [pero-calcolatrice](https://github.com/SyncLab-Stage/pero-calcolatrice)
 * [pero-biblioteca](https://github.com/SyncLab-Stage/pero-biblioteca)
 * [pero-studenti](https://github.com/SyncLab-Stage/pero-studenti)
