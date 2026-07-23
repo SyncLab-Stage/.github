@@ -29,7 +29,7 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 
 # Indice
 
-### Java
+## Java
 * [fiorio-calcolatrice](https://github.com/SyncLab-Stage/fiorio-calcolatrice)
 * [fiorio-biblioteca](https://github.com/SyncLab-Stage/fiorio-biblioteca)
 * [fiorio-studenti](https://github.com/SyncLab-Stage/fiorio-studenti)
@@ -45,7 +45,7 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [pero-studenti](https://github.com/SyncLab-Stage/pero-studenti)
 * [pero-minibanca](https://github.com/SyncLab-Stage/pero-miniBanca)
  
-### JavaScript
+## JavaScript
 * [fiorio-teoria-javascript](https://github.com/SyncLab-Stage/fiorio-teoria-javascript)
 * [fiorio-rubrica](https://github.com/SyncLab-Stage/fiorio-rubrica)
 * [fiorio-todolist](https://github.com/SyncLab-Stage/fiorio-todolist)
@@ -53,20 +53,24 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [fiorio-dashboard-utenti](https://github.com/SyncLab-Stage/fiorio-dashboard-utenti)
 * [buzzi-rubrica](https://github.com/SyncLab-Stage/buzzi-rubrica)
 * [buzzi-todo](https://github.com/SyncLab-Stage/buzzi-todo.git)
+* [buzzi-catalogo](https://github.com/SyncLab-Stage/buzzi-catalogo)
+* [buzzi-dashboard-utenti](https://github.com/SyncLab-Stage/buzzi-dashboard)
+* [pero-rubrica](https://github.com/SyncLab-Stage/pero-rubrica)
+* [pero-todo](https://github.com/SyncLab-Stage/pero-todolist)
 
-### Fondamenti Web
+## Fondamenti Web
 * [fiorio-teoria-fondamenti-web](https://github.com/SyncLab-Stage/fiorio-teoria-fondamenti-web)
 
-### Spring Boot
+## Spring Boot
 * [fiorio-palestra](https://github.com/SyncLab-Stage/fiorio-palestra) ***( Extra )***
 * [fiorio-prodotti](https://github.com/SyncLab-Stage/fiorio-prodotti)
 * [fiorio-api-studenti](https://github.com/SyncLab-Stage/fiorio-api-studenti)
 
-### Angular
+## Angular
 * [cognome-progettoangular](https://github.com/link-al-repo) 
 
-### TypeScript
+## TypeScript
 * [cognome-progettots](https://github.com/link-al-repo) 
 
-### Esercizi Finale Full Stack
+## Esercizi Finale Full Stack
 * [cognome-progettofinale](https://github.com/link-al-repo) 
