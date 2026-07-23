@@ -51,6 +51,7 @@ Per mantenere ordine, uniformità e facilitare la ricerca all'interno dell'organ
 * [fiorio-todolist](https://github.com/SyncLab-Stage/fiorio-todolist)
 * [fiorio-catalogo](https://github.com/SyncLab-Stage/fiorio-catalogo)
 * [fiorio-dashboard-utenti](https://github.com/SyncLab-Stage/fiorio-dashboard-utenti)
+* [buzzi-rubrica](https://github.com/SyncLab-Stage/buzzi-rubrica)
 
 ### Fondamenti Web
 * [fiorio-teoria-fondamenti-web](https://github.com/SyncLab-Stage/fiorio-teoria-fondamenti-web)
